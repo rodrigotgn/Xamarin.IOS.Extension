@@ -1,0 +1,12 @@
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/bin/Debug/netstandard2.0/Xamarin.IOS.Extension.deps.json
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/bin/Debug/netstandard2.0/Xamarin.IOS.Extension.dll
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/bin/Debug/netstandard2.0/Xamarin.IOS.Extension.pdb
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/bin/Debug/netstandard2.0/Xamarin.iOS.dll
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.csprojAssemblyReference.cache
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.csproj.CoreCompileInputs.cache
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.AssemblyInfoInputs.cache
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.AssemblyInfo.cs
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.csproj.CopyComplete
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.dll
+/Users/RodrigoTorres/Projects/Xamarin.IOS.Extension/Xamarin.IOS.Extension/obj/Debug/netstandard2.0/Xamarin.IOS.Extension.pdb
